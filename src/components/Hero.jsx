@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="max-w-6xl px-4 mx-auto md:grid md:grid-cols-2 md:gap-8 items-center">
         <div className="md:col-span-1 my-6">
           <img
-            src="https://images.pexels.com/photos/3184359/pexels-photo-3184359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://images.unsplash.com/photo-1558021211-6d1403321394?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=726&q=80"
             alt="Instructor"
             className="object-cover mx-auto md:mx-0 rounded-md shadow-green-400 shadow-[8px_8px_0_0]"
           />

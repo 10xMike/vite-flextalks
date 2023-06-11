@@ -7,7 +7,7 @@ const TestimonialsSection = () => {
           Testimonials
         </h2>
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
-          <div className="p-6 bg-white ">
+          <div className="p-6 bg-white border-[1px] border-black ">
             <p className="mb-4 text-gray-600 italic">
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
               fringilla lorem vitae tellus cursus, a commodo risus interdum."
@@ -15,7 +15,7 @@ const TestimonialsSection = () => {
             <h4 className="text-lg font-semibold">John Doe</h4>
             <p className="text-gray-500">CEO, Company Name</p>
           </div>
-          <div className="p-6 bg-white ">
+          <div className="p-6 bg-white border-[1px] border-black ">
             <p className="mb-4 text-gray-600 italic">
               "Ut enim ad minim veniam, quis nostrud exercitation ullamco
               laboris nisi ut aliquip ex ea commodo consequat."
@@ -23,7 +23,7 @@ const TestimonialsSection = () => {
             <h4 className="text-lg font-semibold">Jane Smith</h4>
             <p className="text-gray-500">Marketing Manager, Company Name</p>
           </div>
-          <div className="p-6 bg-white ">
+          <div className="p-6 bg-white border-[1px] border-black ">
             <p className="mb-4 text-gray-600 italic">
               "Duis aute irure dolor in reprehenderit in voluptate velit esse
               cillum dolore eu fugiat nulla pariatur."

@@ -6,7 +6,7 @@ const PricingSection = () => {
       <div className="max-w-4xl px-4 mx-auto">
         <h2 className="mb-8 text-3xl font-semibold text-center">Pricing</h2>
         <div className="grid grid-cols-1 gap-8 md:grid-cols-3 text-center items-center">
-          <div className="p-6 bg-white border-[1px] border-black">
+          <div className="p-6 bg-white border-[1px] border-black border-[1px] border-black">
             <h3 className="mb-4 text-lg font-semibold">Basic</h3>
             <p className="mb-4 text-gray-600 italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -20,7 +20,7 @@ const PricingSection = () => {
             </button>
           </div>
           <img src={figure} className="mx-auto w-16 md:-rotate-90" alt />
-          <div className="p-6 bg-white border-[1px] border-black">
+          <div className="p-6 bg-white border-[1px] border-black border-[1px] border-black">
             <h3 className="mb-4 text-lg font-semibold">Standard</h3>
             <p className="mb-4 text-gray-600 italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -34,7 +34,7 @@ const PricingSection = () => {
             </button>
           </div>
           <img src={figure} className="mx-auto w-16 md:-rotate-90" alt />
-          <div className="p-6 bg-white border-[1px] border-black">
+          <div className="p-6 bg-white border-[1px] border-black border-[1px] border-black">
             <h3 className="mb-4 text-lg font-semibold">Premium</h3>
             <p className="mb-4 text-gray-600 italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
