@@ -16,8 +16,11 @@ const Hero = () => {
             Professional Instructors
           </h1>
           <p className="mb-6 text-lg italic">
-            Unlock your potential and achieve fluency in English. Our
-            experienced instructors are here to guide you every step of the way.
+            {/* Unlock your potential and achieve fluency in English. Our
+            experienced instructors are here to guide you every step of the way. */}
+            Liberate il vostro potenziale e raggiungete la fluidità in inglese.
+            I nostri istruttori esperti sono qui per guidarvi in ogni fase del
+            percorso.
           </p>
           <button className="px-6 py-2 font-semibold text-black bg-white hover:bg-[#FFFFFF] border-[1px] border-black">
             Get Started
