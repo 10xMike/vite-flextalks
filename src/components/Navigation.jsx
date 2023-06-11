@@ -1,6 +1,6 @@
 const Navigation = () => {
   return (
-    <nav className="flex items-center justify-between px-4 py-2 bg-[#FCA311]">
+    <nav className="flex items-center justify-between px-4 py-2 text-white bg-[#14213D]">
       <div className="flex items-center">
         {/* <img src="/logo.png" alt="Logo" className="w-10 h-10 mr-2" /> */}
         <h1 className="text-xl font-semibold text-black">FlexTalks</h1>
