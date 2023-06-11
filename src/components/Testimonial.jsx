@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 const TestimonialsSection = () => {
   return (
-    <section className="py-16 bg-[#FFFFFF]">
+    <section className="py-16 bg-[#c0c0c0] border-[1px] border-black">
       <div className="max-w-4xl px-4 mx-auto">
         <h2 className="mb-8 text-3xl font-semibold text-center">
           Testimonials
